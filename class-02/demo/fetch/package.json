@@ -1,0 +1,23 @@
+{
+  "name": "fetch",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "fetch": "index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "is-url": "^1.2.4",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+
+}
