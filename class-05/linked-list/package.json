@@ -1,0 +1,14 @@
+{
+  "name": "linked-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "linkedlist.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "author": "Rawan Nujoom <rawan.nujoom@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
+}
